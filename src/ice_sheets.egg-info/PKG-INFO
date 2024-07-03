@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: ice_sheets
-Version: 0.1.dev2+g4c6f183
-License-File: LICENSE
-Requires-Dist: pooch
-Requires-Dist: pandas
