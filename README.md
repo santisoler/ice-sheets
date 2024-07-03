@@ -10,8 +10,8 @@ Repository containing cumulative ice mass change in Antarctica and Greenland.
 
 | File                                             | sha256 hash                                                        |
 | ------------------------------------------------ | ------------------------------------------------------------------ |
-| `datasets/ice-mass-sheet-balance-antarctica.csv` | `e5c0f1741bc296bb54a1ec93166efc67e2e1cde8d74f1d8089bc68cf5ee1433d` |
-| `datasets/ice-mass-sheet-balance-greenland.csv`  | `8bf3ba40cd777bc5e18d247fbfbdb05c8ff454fa84059cdc3fc507b38d4e814a` |
+| `datasets/antarctica.csv` | `e5c0f1741bc296bb54a1ec93166efc67e2e1cde8d74f1d8089bc68cf5ee1433d` |
+| `datasets/greenland.csv`  | `8bf3ba40cd777bc5e18d247fbfbdb05c8ff454fa84059cdc3fc507b38d4e814a` |
 
 ## References
 
