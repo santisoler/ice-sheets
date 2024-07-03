@@ -1,4 +1,5 @@
 import pooch
+import pandas as pd
 
 from ._version import __version__
 
