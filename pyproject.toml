@@ -12,6 +12,8 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["src"]
+include = ["ice_sheet*"]
+namespaces = true
 
 [tool.setuptools_scm]
 version_file = "src/ice_sheets/_version.py"
