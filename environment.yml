@@ -1,0 +1,11 @@
+name: ice-sheets
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  # Required
+  - pooch
+  - pandas
+  # Development
+  - pytest

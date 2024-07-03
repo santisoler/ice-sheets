@@ -13,6 +13,9 @@ Repository containing cumulative ice mass change in Antarctica and Greenland.
 | `datasets/antarctica.csv` | `e5c0f1741bc296bb54a1ec93166efc67e2e1cde8d74f1d8089bc68cf5ee1433d` |
 | `datasets/greenland.csv`  | `8bf3ba40cd777bc5e18d247fbfbdb05c8ff454fa84059cdc3fc507b38d4e814a` |
 
+All data files in the `datasets` directory are released under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
 ## References
 
 The data was downloaded from https://ourworldindata.org/climate-change, made
@@ -27,10 +30,6 @@ Citation:
 
 ## License
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
+All code in this repository is released under a [MIT License](LICENSE).
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
