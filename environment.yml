@@ -9,3 +9,5 @@ dependencies:
   - pandas
   # Development
   - pytest
+  # Other
+  - ipython
